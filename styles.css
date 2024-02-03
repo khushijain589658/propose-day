@@ -141,4 +141,8 @@ span {
     margin: 20px auto; /* Adjust margin as needed */
     max-width: 100%;
 }
-
+body {
+    font-family: 'Shadows Into Light';
+    color: #111;
+    background-color: #FFD9EB; /* Soft Pink */
+}
