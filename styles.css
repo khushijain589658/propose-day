@@ -132,6 +132,6 @@ span {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    font-size: 75px; /* Adjusted font size to 36px */
+    font-size: 36px; /* Adjusted font size to 36px */
     color: #333;
 }
