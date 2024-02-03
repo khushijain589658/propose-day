@@ -135,3 +135,10 @@ span {
     font-size: 36px; /* Adjusted font size to 36px */
     color: #333;
 }
+/* Add the following CSS for the GIF image */
+.gif-image {
+    display: block;
+    margin: 20px auto; /* Adjust margin as needed */
+    max-width: 100%;
+}
+
